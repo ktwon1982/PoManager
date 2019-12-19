@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/Company/!svn/ver/34/POManager/POManager
+END
+PartsForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Company/!svn/ver/32/POManager/POManager/PartsForm.Designer.cs
+END
+PurchaseOrdersForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Company/!svn/ver/32/POManager/POManager/PurchaseOrdersForm.Designer.cs
+END
+SaveExel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Company/!svn/ver/34/POManager/POManager/SaveExel.cs
+END
+OutputRegist.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Company/!svn/ver/26/POManager/POManager/OutputRegist.Designer.cs
+END
+InputRegist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/30/POManager/POManager/InputRegist.cs
+END
+VendorAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Company/!svn/ver/2/POManager/POManager/VendorAdd.resx
+END
+OutputHistoryForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Company/!svn/ver/2/POManager/POManager/OutputHistoryForm.resx
+END
+MainForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Company/!svn/ver/2/POManager/POManager/MainForm.resx
+END
+PO_Viewer.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Company/!svn/ver/28/POManager/POManager/PO_Viewer.Designer.cs
+END
+VendorsForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Company/!svn/ver/32/POManager/POManager/VendorsForm.Designer.cs
+END
+ContactAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Company/!svn/ver/26/POManager/POManager/ContactAdd.Designer.cs
+END
+VendorsForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/32/POManager/POManager/VendorsForm.cs
+END
+ContactAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Company/!svn/ver/2/POManager/POManager/ContactAdd.cs
+END
+InputHistoryForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Company/!svn/ver/34/POManager/POManager/InputHistoryForm.Designer.cs
+END
+VendorAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Company/!svn/ver/24/POManager/POManager/VendorAdd.Designer.cs
+END
+OutputHistoryForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Company/!svn/ver/34/POManager/POManager/OutputHistoryForm.Designer.cs
+END
+StocksForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/2/POManager/POManager/StocksForm.resx
+END
+SelectItem.resx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/2/POManager/POManager/SelectItem.resx
+END
+PO_Viewer.resx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/28/POManager/POManager/PO_Viewer.resx
+END
+InputRegist.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Company/!svn/ver/42/POManager/POManager/InputRegist.Designer.cs
+END
+POPartsAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/2/POManager/POManager/POPartsAdd.resx
+END
+PartsAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Company/!svn/ver/2/POManager/POManager/PartsAdd.resx
+END
+POManager.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Company/!svn/ver/16/POManager/POManager/POManager.csproj.user
+END
+StocksForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Company/!svn/ver/32/POManager/POManager/StocksForm.Designer.cs
+END
+SelectItem.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Company/!svn/ver/30/POManager/POManager/SelectItem.Designer.cs
+END
+PO_Viewer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Company/!svn/ver/28/POManager/POManager/PO_Viewer.cs
+END
+PartsAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Company/!svn/ver/24/POManager/POManager/PartsAdd.Designer.cs
+END
+POPartsAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Company/!svn/ver/2/POManager/POManager/POPartsAdd.cs
+END
+InputsForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Company/!svn/ver/42/POManager/POManager/InputsForm.cs
+END
+OutputsForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Company/!svn/ver/2/POManager/POManager/OutputsForm.Designer.cs
+END
+Login.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Company/!svn/ver/26/POManager/POManager/Login.Designer.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Company/!svn/ver/2/POManager/POManager/Program.cs
+END
+Login.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Company/!svn/ver/32/POManager/POManager/Login.cs
+END
+OutputRegist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Company/!svn/ver/30/POManager/POManager/OutputRegist.cs
+END
+PurchaseOrderAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Company/!svn/ver/2/POManager/POManager/PurchaseOrderAdd.Designer.cs
+END
+VendorsForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Company/!svn/ver/2/POManager/POManager/VendorsForm.resx
+END
+ContactAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/2/POManager/POManager/ContactAdd.resx
+END
+OutputsForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Company/!svn/ver/2/POManager/POManager/OutputsForm.resx
+END
+POAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Company/!svn/ver/30/POManager/POManager/POAdd.Designer.cs
+END
+PartsForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Company/!svn/ver/2/POManager/POManager/PartsForm.resx
+END
+PurchaseOrdersForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Company/!svn/ver/2/POManager/POManager/PurchaseOrdersForm.resx
+END
+PurchaseOrderAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Company/!svn/ver/2/POManager/POManager/PurchaseOrderAdd.resx
+END
+POPartsAdd.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Company/!svn/ver/2/POManager/POManager/POPartsAdd.Designer.cs
+END
+PartsDTO.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Company/!svn/ver/30/POManager/POManager/PartsDTO.cs
+END
+POAdd.resx
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Company/!svn/ver/2/POManager/POManager/POAdd.resx
+END
+POManager.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Company/!svn/ver/32/POManager/POManager/POManager.csproj
+END
+OutputHistoryForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Company/!svn/ver/32/POManager/POManager/OutputHistoryForm.cs
+END
+VendorAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Company/!svn/ver/2/POManager/POManager/VendorAdd.cs
+END
+OutputsForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Company/!svn/ver/2/POManager/POManager/OutputsForm.cs
+END
+MainForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Company/!svn/ver/27/POManager/POManager/MainForm.Designer.cs
+END
+MainForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Company/!svn/ver/27/POManager/POManager/MainForm.cs
+END
+PartsForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Company/!svn/ver/42/POManager/POManager/PartsForm.cs
+END
+PurchaseOrdersForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Company/!svn/ver/42/POManager/POManager/PurchaseOrdersForm.cs
+END
+POManager.ico
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Company/!svn/ver/25/POManager/POManager/POManager.ico
+END
+PurchaseOrderAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Company/!svn/ver/2/POManager/POManager/PurchaseOrderAdd.cs
+END
+InputHistoryForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Company/!svn/ver/2/POManager/POManager/InputHistoryForm.resx
+END
+InputsForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Company/!svn/ver/2/POManager/POManager/InputsForm.resx
+END
+Login.resx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Company/!svn/ver/12/POManager/POManager/Login.resx
+END
+POAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Company/!svn/ver/31/POManager/POManager/POAdd.cs
+END
+InputRegist.resx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Company/!svn/ver/2/POManager/POManager/InputRegist.resx
+END
+OutputRegist.resx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Company/!svn/ver/2/POManager/POManager/OutputRegist.resx
+END
+StocksForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Company/!svn/ver/32/POManager/POManager/StocksForm.cs
+END
+SelectItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Company/!svn/ver/2/POManager/POManager/SelectItem.cs
+END
+PartsAdd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Company/!svn/ver/2/POManager/POManager/PartsAdd.cs
+END
+InputsForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Company/!svn/ver/32/POManager/POManager/InputsForm.Designer.cs
+END
+InputHistoryForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Company/!svn/ver/32/POManager/POManager/InputHistoryForm.cs
+END
+DBCtrl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Company/!svn/ver/30/POManager/POManager/DBCtrl.cs
+END
